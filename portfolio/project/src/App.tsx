@@ -32,9 +32,12 @@ function App() {
                  className="bg-gray-800 text-gray-100 px-4 py-2 rounded-full flex items-center gap-2 hover:bg-gray-700">
                 <Linkedin size={20} /> LinkedIn
               </a>
+              <a href="portfolio\portfolio\resume_final.pdf">
+
               <button className="bg-gray-800 text-gray-100 px-4 py-2 rounded-full flex items-center gap-2 hover:bg-gray-700">
                 <Download size={20} /> Download Resume
               </button>
+              </a>
             </div>
           </div>
         </div>
